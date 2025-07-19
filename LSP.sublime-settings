@@ -1,0 +1,17 @@
+{
+    "clients": {
+        "pylsp": {
+            "enabled": true,
+            "command": ["pylsp"],
+            "selector": "source.python",
+            "settings": {
+                "pylsp": {
+                    "plugins": {
+                        "pycodestyle": {"enabled": true, "maxLineLength": 120},
+                        "pylsp_black": {"enabled": true}
+                    }
+                }
+            }
+        }
+    }
+}

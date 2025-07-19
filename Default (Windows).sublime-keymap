@@ -1,0 +1,13 @@
+[
+    // Основные
+    { "keys": ["f5"], "command": "build" },
+    { "keys": ["ctrl+shift+f"], "command": "auto_pep8_format_code" },
+    
+    // LSP навигация
+    { "keys": ["f12"], "command": "lsp_symbol_definition" },
+    { "keys": ["shift+f12"], "command": "lsp_symbol_references" },
+    { "keys": ["ctrl+."], "command": "lsp_code_actions" },
+    
+    // Терминал
+    { "keys": ["ctrl+shift+t"], "command": "terminus_open" }
+]

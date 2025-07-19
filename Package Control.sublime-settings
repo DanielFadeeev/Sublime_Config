@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoPEP8",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Emmet",
+		"LSP",
+		"LSP-pylsp",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Tabnine",
+		"Terminus",
+	],
+}

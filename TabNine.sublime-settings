@@ -1,0 +1,5 @@
+{
+    "max_num_results": 3,
+    "request_timeout": 1.0,
+    "ignore_all_lsp": false
+}
